@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.10.2
 MAINTAINER "EEA: IDM2 A-Team" <eea-edw-a-team-alerts@googlegroups.com>
 
 ENV JSHINT_VERSION=2.9.5
