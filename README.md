@@ -5,7 +5,7 @@
 ## Supported tags and respective `Dockerfile` links
 
 - [`latest` (*Dockerfile*)](https://github.com/eea/eea.docker.jshint/blob/master/Dockerfile)
-- [`2.13.1` (*Dockerfile*)](https://github.com/eea/eea.docker.jshint/blob/2.13.1/Dockerfile)
+- [`2.13.3` (*Dockerfile*)](https://github.com/eea/eea.docker.jshint/blob/2.13.3/Dockerfile)
 
 ## Usage
 
