@@ -1,7 +1,7 @@
-FROM alpine:3.16
+FROM alpine:3.17
 MAINTAINER "EEA: IDM2 A-Team" <eea-edw-a-team-alerts@googlegroups.com>
 
-ENV JSHINT_VERSION=2.13.5
+ENV JSHINT_VERSION=2.13.6
 
 RUN apk add --no-cache --virtual .run-deps npm git \
  && npm install -g jshint@$JSHINT_VERSION \
